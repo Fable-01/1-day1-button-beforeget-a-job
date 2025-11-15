@@ -1,5 +1,6 @@
 import Button01 from "./component/Button01"
 import Button02 from "./component/Button02"
+import Button03 from "./component/Button03"
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       
      <Button01/> 
      <Button02/> 
+     <Button03/> 
 
       
       
